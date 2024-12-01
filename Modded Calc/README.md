@@ -1,4 +1,4 @@
-# TI-32
+# Chromalock
 
 
 ![built pcb](./pcb/built.png)
